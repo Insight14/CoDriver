@@ -9,6 +9,12 @@
 
 Long road trips often cause significant fatigue for drivers, making it unsafe for them and other drivers. That’s where CoDriver steps in! It's a mobile app with a conversational AI assistant that feels like having a co-pilot in your passenger seat. Designed to keep you safe, focused, and engaged, CoDriver monitors your behavior and provides real-time feedback to keep you focused while on the road. It also keeps you entertained with engaging conversations and helpful information about your route, making every drive more enjoyable.
 
+## Finished Product
+  This was a team project with my teammates names, including mine, listed at the bottom. The original repository can be accessed with the link below. 
+  Please switch the branch to Version4Demo to access and run the final product using the git commands provided at the end of this README.
+  
+  <a href="https://github.com/acm-projects/CoDriver/tree/main">Final Product</a>
+
 ## MVP 💡
 
 - User account creation with authentication
